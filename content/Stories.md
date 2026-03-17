@@ -46,7 +46,8 @@ how you analyze data using other tools (like Python, MATLAB, or Excel)
   3. The face-down dies use a flip-chip process with solder bumps which are melted to pads on the substrate and an underfill epoxy which helps relieve stress
   4. Modern processes also use die-to-die interconnects which are routed in the substrate or using a silicon interposer
 
-I have experience in the manufacturing process with VeL systems, where I am a project manager for all of our work involving vision systems. I integrate additions to the production line for quality assurance and use da Drone soldering, 
+- I have experience in the manufacturing process with VeL systems, where I am a project manager for all of our work involving vision systems. I integrate additions to the production line for quality assurance. Our latest work with Mettler-Toledo involved detecting manufacturing defects and particles in the pipette filters down to 0.1 mm, analyzing 96 pipettes in a couple milliseconds with a trained model.
+- I have experience in integrating circuits myself through coursework and projects, but mainly through building and racing drones. I 3d print frames, source electronics, motors, cameras,  
 
 # Collaborative Processes
 
