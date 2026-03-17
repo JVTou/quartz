@@ -1,6 +1,6 @@
 ---
 date created: mardi, mars 17 2026, 9:47:42 am
-date modified: mardi, mars 17 2026, 4:27:37 pm
+date modified: mardi, mars 17 2026, 4:42:51 pm
 ---
 # Veritas Engineering
 - Veritas pre-2020 faced issues scaling because conventions and integrations with customers (Tesla, Lucid, Snowflake) were not clear across project managers and technicians. Doing specific projects like card access, security cameras or integrating campus-wide access points were limited to specific project managers and technicians that specifically had experience in that domain.
@@ -23,9 +23,9 @@ date modified: mardi, mars 17 2026, 4:27:37 pm
 
 # Apple's Mission
 
-I strive to always improve the communities I am part of, or the teams I lead. All through college, I've been heavily involved in construction and the trades, helping out local businesses. This helped create a network and people regularly reach out based on work I've done for past companies. Making websites for tons of people
+I strive to always improve the communities I am part of, or the teams I lead. All through college, I've been heavily involved in construction and the trades, helping out local businesses with IT, web dev and marketing. This helped create a network and people regularly reach out based on work I've done for past companies.
 
-Filming 
+I translate these skills in marketing to help out in local events and fundraisers, where I donate my time to create flyers, posters, but more recently trailers and event videos. My most recent filming project was a documentary of a catholic church's history screened to an audience of 500 people, which got me referrals to film weddings and photograph families.
 
 My passion for hardware and innovation pushes me always looks for solutions myself, rather than relying on third party solutions. I recently had issues with my truck not correctly displaying an accurate speed, since I changed the gear ratios. I realized that the signal going to the speedometer came from a sensor in the drive train, which outputted a square wave. I took the signal and placed an arduino in between the sensor and speedometer which modified the frequency of the input to send an accurate speed value to the speedometer. I also realized this was a common issue in come of my friend's vehicles, where modified vehicles, so a personal project turned into an opportunity to make someone happy and improve that relationship.
 
@@ -40,6 +40,7 @@ Working with vendors from all backgrounds understanding of the global hardware s
 - The system then has two sides of reporting:
 	1. immediate feedback to the operator which takes pictures of the filters from the vision system and draws attention to the defects it detects
 	2. a report of past data which shows number of defect types per day, heatmap of defect positions and creates a database of all pictures, timestamped and tagged with defects.
+I have also used python extensively in my labs for data visualization, preferring it to excel for being more modular.
 # Semiconductor Packaging
 
 - SiP integrates multiple integrated circuits into a single package, much smaller than a traditional PCB.
@@ -59,3 +60,5 @@ ongoing research collaboration with Lawrence Livermore National Labs and SJSU as
 Understanding but firm requirements: communication is key in building relationships.
 
 President of the Frassati youth group
+
+Wide range of people: people at Sandia, technicians at Tesla, project managers at contructions
