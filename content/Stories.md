@@ -41,13 +41,16 @@ how you analyze data using other tools (like Python, MATLAB, or Excel)
 - SiP integrates multiple integrated circuits into a single package, much smaller than a traditional PCB.
 - Compared to SoCs or PCBs: shorter time-to-market, reduced assembly and test costs, improved electrical performance, better signal integrity.
 - SiP assembly involves:
-  1. Squeezing solder paste onto the substrate pads, then placing passives onto the pads. The substrate passes through a multi-zone reflow oven, where the metallic connection forms to the passives
-  2. The face-up dies are then placed and epoxied onto the substrate and wire-bonded to pads on the substrate
-  3. The face-down dies use a flip-chip process with solder bumps which are melted to pads on the substrate and an underfill epoxy which helps relieve stress
-  4. Modern processes also use die-to-die interconnects which are routed in the substrate or using a silicon interposer
+	  1. Squeezing solder paste onto the substrate pads, then placing passives onto the pads. The substrate passes through a multi-zone reflow oven, where the metallic connection forms to the passives
+	  2. The face-up dies are then placed and epoxied onto the substrate and wire-bonded to pads on the substrate
+	  3. The face-down dies use a flip-chip process with solder bumps which are melted to pads on the substrate and an underfill epoxy which helps relieve stress
+	  4. Modern processes also use die-to-die interconnects which are routed in the substrate or using a silicon interposer
 
 - I have experience in the manufacturing process with VeL systems, where I am a project manager for all of our work involving vision systems. I integrate additions to the production line for quality assurance. Our latest work with Mettler-Toledo involved detecting manufacturing defects and particles in the pipette filters down to 0.1 mm, analyzing 96 pipettes in a couple milliseconds with a trained model.
-- I have experience in integrating circuits myself through coursework and projects, but mainly through building and racing drones. I 3d print frames, source electronics, motors, cameras,  
+- The system then has two sides of reporting:
+	1. immediate feedback to the operator which takes pictures of the filters from the vision system and draws attention to the defects it detects 
+	2. a report of past data which shows number of defect types per day, heatmap of defect positions and having an acce
+- I have experience in integrating circuits myself through coursework and projects, but mainly through building and racing drones. I model and 3d print frames for the drone, then source electronics (flight controllers, speed controllers, GPS, video and controller transmitters) motors, cameras, antennas, controllers, batteries and headsets.
 
 # Collaborative Processes
 
