@@ -40,10 +40,12 @@ how you analyze data using other tools (like Python, MATLAB, or Excel)
 
 - SiP integrates multiple integrated circuits into a single package, much smaller than a traditional PCB.
 - Compared to SoCs or PCBs: shorter time-to-market, reduced assembly and test costs, improved electrical performance, better signal integrity.
-- SiP assembly involves first squeezing solder paste onto the substrate pads, then placing passives onto the pads. The substrate passes through a multi-zone reflow oven, where the 
-metallic connection forms to the passives
+- SiP assembly involves:
+  1. Squeezing solder paste onto the substrate pads, then placing passives onto the pads. The substrate passes through a multi-zone reflow oven, where the metallic connection forms to the passives
+  2. The face-up dies are then placed and epoxied onto the substrate and wire-bonded to pads on the substrate
+  3. The face-down dies use a flip-chip process with solder bumps which are attached to pads on the substrate and an underfill
 
-Drones and soldering
+Drone soldering, VeL
 
 # Collaborative Processes
 
