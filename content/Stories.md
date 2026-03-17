@@ -43,9 +43,10 @@ how you analyze data using other tools (like Python, MATLAB, or Excel)
 - SiP assembly involves:
   1. Squeezing solder paste onto the substrate pads, then placing passives onto the pads. The substrate passes through a multi-zone reflow oven, where the metallic connection forms to the passives
   2. The face-up dies are then placed and epoxied onto the substrate and wire-bonded to pads on the substrate
-  3. The face-down dies use a flip-chip process with solder bumps which are attached to pads on the substrate and an underfill
+  3. The face-down dies use a flip-chip process with solder bumps which are melted to pads on the substrate and an underfill epoxy which helps relieve stress
+  4. Modern processes also use die-to-die interconnects which are routed in the substrate or using a silicon interposer
 
-Drone soldering, VeL
+I have experience in the manufacturing process with VeL systems, where I am a project manager for all of our work involving vision systems. I integrate additions to the production line for quality assurance and use da Drone soldering, 
 
 # Collaborative Processes
 
