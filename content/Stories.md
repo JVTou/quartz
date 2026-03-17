@@ -17,12 +17,14 @@ date modified: mardi, mars 17 2026, 1:23:51 pm
 - Using BDI on a GAA-FET device increases the radiation energy needed to flip a bit, meaning it is overall more radiation resistant.
 # Graduate School
 - Entering graduate school in electrical engineering from a background in physics was a particularly challenging transition where expectations of knowledge and were not always met, and the culture was fundamentally different. Classes in graduate school presented the challenge of adopting new tools for a physics major that EEs had been using for the past couple years, and reaching a graduate level proficiency in a time-sensitive manner. While physics dealt with understanding theorems and applying mathematics to difficult problems in quantum mechanics, electrical engineering culture revolves towards learning tools to implement those theorems, and learning how your devices will function in their environment. It's a game of improving and comprehensively mastering all details and tangential aspects of your designs.
-- Such a major shift required me to embrace electrical engineering fully and 
-- I reprioritized where my focus should be, looking to make time for transparency and open communication with my professors, going to office hours for face to face time filling in knowledge gaps
+- Such a major shift required me to embrace a new routine where I was able to embrace electrical engineering fully. I left my job at Veritas and replaced it with an opportunity as a research assistant in the EE department where I could both learn from and build relationships with professors in the department.
+- I reprioritized where my focus should be, looking to make time for transparency and open communication with my professors, going to office hours for face to face time filling in knowledge gaps. This allowed me to become engaged in their classes and created opportunities in research in their laboratories. I also became heavily engaged in IEEE, looking to build a rapport with other EE graduates as fellow students and future coworkers.
 
 # Apple's Mission
 
 Articulate _why_ you are drawn to hardware engineering and how your personal passion for "hard tech" aligns with Apple's mission to leave the world better than we found it
+I recently had issues with my truck not correctly displaying an accurate speed, since I changed the gear ratios. I realized that the signal going to the speedometer came from a sensor in the drive train, which outputted a square wave. I took the signal and placed an arduino in between the sensor and speedometer which modified the frequency of the input to send an accurate speed value to the speedometer. I also realized this was a common issue in many friend's vehicles, where modified vehicles
+VeL systems was an opportunity 
 
 # Global Manufacturing
 
