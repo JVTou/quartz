@@ -23,11 +23,11 @@ date modified: mardi, mars 17 2026, 4:27:37 pm
 
 # Apple's Mission
 
-Articulate _why_ you are drawn to hardware engineering and how your personal passion for "hard tech" aligns with Apple's mission to leave the world better than we found it
+I strive to always improve the communities I am part of, or the teams I lead. All through college, I've been heavily involved in construction and the trades, helping out local businesses. This helped create a network and people regularly reach out based on work I've done for past companies. Making websites for tons of people
 
-I strive to always improve the communities I am part of, or the teams I lead. Facing
+Filming 
 
-My I recently had issues with my truck not correctly displaying an accurate speed, since I changed the gear ratios. I realized that the signal going to the speedometer came from a sensor in the drive train, which outputted a square wave. I took the signal and placed an arduino in between the sensor and speedometer which modified the frequency of the input to send an accurate speed value to the speedometer. I also realized this was a common issue in many friend's vehicles, where modified vehicles.
+My passion for hardware and innovation pushes me always looks for solutions myself, rather than relying on third party solutions. I recently had issues with my truck not correctly displaying an accurate speed, since I changed the gear ratios. I realized that the signal going to the speedometer came from a sensor in the drive train, which outputted a square wave. I took the signal and placed an arduino in between the sensor and speedometer which modified the frequency of the input to send an accurate speed value to the speedometer. I also realized this was a common issue in come of my friend's vehicles, where modified vehicles, so a personal project turned into an opportunity to make someone happy and improve that relationship.
 
 # Global Manufacturing
 
