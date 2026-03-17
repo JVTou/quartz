@@ -6,9 +6,11 @@
 - This playbook allowed for rapid training of new employees and contributed to technician morale, as they felt capable on their own relying on the conventions outlined on our playbook without having to rely on senior technicians waiting on opportunities with specific project managers to learn new processes
 # SRAM Research
 - Radiation plays a big part in affecting device stability at the scales currently in cutting-edge manufacturing. Ions striking different areas introduce bit flips, especially when the ions hit the channel region of the transistors
+- Plays a big role in space environments where there is no atmosphere 
 - Research on SRAM (memory) devices at the 3nm node: using Gate All Around-FET devices, we showed how we can improve existing GAA-FET transistors in manufacturing to make them more radiation-resistant. 
 - Using TCAD simulations, we worked on creating new BDI structures under the channel. To analogize, we had a dam where the water was leaking out of the reservoir from under the dam, and we worked on creating a solid floor under the reservoir to make sure the ground was properly sealing the water inside of the reservoir.
-- Albeit, the implementation of this new BDI structure is difficult to implement in
+- Albeit, the implementation of this new BDI structure is difficult to implement in manufacturing, adding several steps in the process depending on the structure. We worked on finding the most effective structure that would require the least steps added in manufacturing, eventually finding a structure where it would only increase the time in two specific manufacturing steps already in manufacturing.
+- Using BDI on a GAA FET device increases the radiation energy needed to flip a bit, meaning it is overall more radiation resistant.
 # Graduate School
 
 # Apple's mission
@@ -19,4 +21,5 @@
 
 # Semiconductor Packaging
 
-# Collaborat
+# Collaborative Processes
+
