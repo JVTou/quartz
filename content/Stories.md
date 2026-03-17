@@ -1,6 +1,6 @@
 ---
 date created: mardi, mars 17 2026, 9:47:42 am
-date modified: mardi, mars 17 2026, 1:50:36 pm
+date modified: mardi, mars 17 2026, 3:56:13 pm
 ---
 # Veritas Engineering
 - Veritas pre-2020 faced issues scaling because conventions and integrations with customers (Tesla, Lucid, Snowflake) were not clear across project managers and technicians. Doing specific projects like card access, security cameras or integrating campus-wide access points were limited to specific project managers and technicians that specifically had experience in that domain.
@@ -38,7 +38,7 @@ how you analyze data using other tools (like Python, MATLAB, or Excel)
 
 # Semiconductor Packaging
 
-mechanical and chemical processes involved in modern SiP assembly (like surface-mount technology and molding)
+SiP assembly involves first squeezing solder paste onto the substrate pads, then placing passives onto the pads. The substrate passes through a multi-zone reflow oven, where the 
 
 Drones and soldering
 
@@ -47,3 +47,5 @@ Drones and soldering
 ongoing research collaboration with Lawrence Livermore National Labs and SJSU as a prime example of your ability to work with a wide range of people with varying degrees of experience
 
 Understanding but firm requirements: communication is key in building relationships.
+
+President of the Frassati youth group
