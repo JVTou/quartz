@@ -38,7 +38,10 @@ how you analyze data using other tools (like Python, MATLAB, or Excel)
 
 # Semiconductor Packaging
 
-SiP assembly involves first squeezing solder paste onto the substrate pads, then placing passives onto the pads. The substrate passes through a multi-zone reflow oven, where the 
+- SiP integrates multiple integrated circuits into a single package, much smaller than a traditional PCB.
+- Compared to SoCs or PCBs: shorter time-to-market, reduced assembly and test costs, improved electrical performance, better signal integrity.
+- SiP assembly involves first squeezing solder paste onto the substrate pads, then placing passives onto the pads. The substrate passes through a multi-zone reflow oven, where the 
+metallic connection forms to the passives
 
 Drones and soldering
 
