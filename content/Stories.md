@@ -1,6 +1,6 @@
 ---
 date created: mardi, mars 17 2026, 9:47:42 am
-date modified: mardi, mars 17 2026, 1:23:51 pm
+date modified: mardi, mars 17 2026, 1:50:36 pm
 ---
 # Veritas Engineering
 - Veritas pre-2020 faced issues scaling because conventions and integrations with customers (Tesla, Lucid, Snowflake) were not clear across project managers and technicians. Doing specific projects like card access, security cameras or integrating campus-wide access points were limited to specific project managers and technicians that specifically had experience in that domain.
@@ -23,8 +23,10 @@ date modified: mardi, mars 17 2026, 1:23:51 pm
 # Apple's Mission
 
 Articulate _why_ you are drawn to hardware engineering and how your personal passion for "hard tech" aligns with Apple's mission to leave the world better than we found it
+
 I recently had issues with my truck not correctly displaying an accurate speed, since I changed the gear ratios. I realized that the signal going to the speedometer came from a sensor in the drive train, which outputted a square wave. I took the signal and placed an arduino in between the sensor and speedometer which modified the frequency of the input to send an accurate speed value to the speedometer. I also realized this was a common issue in many friend's vehicles, where modified vehicles
-VeL systems was an opportunity 
+
+VeL systems was an opportunity
 
 # Global Manufacturing
 
@@ -37,6 +39,8 @@ how you analyze data using other tools (like Python, MATLAB, or Excel)
 # Semiconductor Packaging
 
 mechanical and chemical processes involved in modern SiP assembly (like surface-mount technology and molding)
+
+Drones and soldering
 
 # Collaborative Processes
 
