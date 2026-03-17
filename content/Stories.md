@@ -16,6 +16,7 @@ date modified: mardi, mars 17 2026, 4:27:37 pm
 - Albeit, the implementation of this new BDI structure is difficult to implement in manufacturing, adding several steps in the process depending on the structure. We worked on finding the most effective structure that would require the least steps added in manufacturing, eventually finding a structure where it would only increase the time in two specific manufacturing steps already in manufacturing.
 - Using BDI on a GAA-FET device increases the radiation energy needed to flip a bit, meaning it is overall more radiation resistant.
 # Graduate School
+
 - Entering graduate school in electrical engineering from a background in physics was a particularly challenging transition where expectations of knowledge and were not always met, and the culture was fundamentally different. Classes in graduate school presented the challenge of adopting new tools for a physics major that EEs had been using for the past couple years, and reaching a graduate level proficiency in a time-sensitive manner. While physics dealt with understanding theorems and applying mathematics to difficult problems in quantum mechanics, electrical engineering culture revolves towards learning tools to implement those theorems, and learning how your devices will function in their environment. It's a game of improving and comprehensively mastering all details and tangential aspects of your designs.
 - Such a major shift required me to embrace a new routine where I was able to embrace electrical engineering fully. I left my job at Veritas and replaced it with an opportunity as a research assistant in the EE department where I could both learn from and build relationships with professors in the department.
 - I reprioritized where my focus should be, looking to make time for transparency and open communication with my professors, going to office hours for face to face time filling in knowledge gaps. This allowed me to become engaged in their classes and created opportunities in research in their laboratories. I also became heavily engaged in IEEE, looking to build a rapport with other EE graduates as fellow students and future coworkers.
@@ -24,9 +25,9 @@ date modified: mardi, mars 17 2026, 4:27:37 pm
 
 Articulate _why_ you are drawn to hardware engineering and how your personal passion for "hard tech" aligns with Apple's mission to leave the world better than we found it
 
-I recently had issues with my truck not correctly displaying an accurate speed, since I changed the gear ratios. I realized that the signal going to the speedometer came from a sensor in the drive train, which outputted a square wave. I took the signal and placed an arduino in between the sensor and speedometer which modified the frequency of the input to send an accurate speed value to the speedometer. I also realized this was a common issue in many friend's vehicles, where modified vehicles
+I strive to always improve the communities I am part of, or the teams I lead. Facing
 
-VeL systems was an opportunity
+My I recently had issues with my truck not correctly displaying an accurate speed, since I changed the gear ratios. I realized that the signal going to the speedometer came from a sensor in the drive train, which outputted a square wave. I took the signal and placed an arduino in between the sensor and speedometer which modified the frequency of the input to send an accurate speed value to the speedometer. I also realized this was a common issue in many friend's vehicles, where modified vehicles.
 
 # Global Manufacturing
 
@@ -35,6 +36,7 @@ Working with vendors from all backgrounds understanding of the global hardware s
 # Data Tools
 
 - I have experience in the manufacturing process with VeL systems, where I am a project manager for all of our work involving vision systems. I integrate additions to the production line for quality assurance. Our latest work with Mettler-Toledo involved detecting manufacturing defects and particles in the pipette filters down to 0.1 mm, analyzing 96 pipettes in a couple milliseconds with a trained model.
+- The system is built on Node Red
 - The system then has two sides of reporting:
 	1. immediate feedback to the operator which takes pictures of the filters from the vision system and draws attention to the defects it detects
 	2. a report of past data which shows number of defect types per day, heatmap of defect positions and creates a database of all pictures, timestamped and tagged with defects.
