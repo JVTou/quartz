@@ -12,16 +12,20 @@
 - Albeit, the implementation of this new BDI structure is difficult to implement in manufacturing, adding several steps in the process depending on the structure. We worked on finding the most effective structure that would require the least steps added in manufacturing, eventually finding a structure where it would only increase the time in two specific manufacturing steps already in manufacturing.
 - Using BDI on a GAA-FET device increases the radiation energy needed to flip a bit, meaning it is overall more radiation resistant.
 # Graduate School
+- Entering graduate school in electrical engineering 
 
 # Apple's mission
-
+Articulate _why_ you are drawn to hardware engineering and how your personal passion for "hard tech" aligns with Apple's mission to leave the world better than we found it
 
 # Global Manufacturing
-Working with ve
+Working with vendors from all backgrounds understanding of the global hardware supply chain (such as sourcing components like single-board computers internationally) and how you approach clear, rigorous technical documentation
 
 # Data Tools
+how you analyze data using other tools (like Python, MATLAB, or Excel)
 
 # Semiconductor Packaging
+mechanical and chemical processes involved in modern SiP assembly (like surface-mount technology and molding)
 
 # Collaborative Processes
-
+ongoing research collaboration with Lawrence Livermore National Labs and SJSU as a prime example of your ability to work with a wide range of people with varying degrees of experience
+Understanding but firm requirements: communication is key in building relationships.
