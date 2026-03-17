@@ -16,8 +16,8 @@ date modified: mardi, mars 17 2026, 1:23:51 pm
 - Albeit, the implementation of this new BDI structure is difficult to implement in manufacturing, adding several steps in the process depending on the structure. We worked on finding the most effective structure that would require the least steps added in manufacturing, eventually finding a structure where it would only increase the time in two specific manufacturing steps already in manufacturing.
 - Using BDI on a GAA-FET device increases the radiation energy needed to flip a bit, meaning it is overall more radiation resistant.
 # Graduate School
-- Entering graduate school in electrical engineering from a background in physics was a particularly challenging transition where expectations of knowledge and prerequisites were not always met.
-- I decided to embrace the electrical
+- Entering graduate school in electrical engineering from a background in physics was a particularly challenging transition where expectations of knowledge and prerequisites were not always met. 
+- I decided to embrace the electrical engineering
 
 # Apple's Mission
 
