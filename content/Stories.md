@@ -1,6 +1,6 @@
 ---
 date created: mardi, mars 17 2026, 9:47:42 am
-date modified: mardi, mars 17 2026, 4:51:40 pm
+date modified: mardi, mars 17 2026, 4:55:42 pm
 ---
 # Veritas Engineering
 - Veritas pre-2020 faced issues scaling because conventions and integrations with customers (Tesla, Lucid, Snowflake) were not clear across project managers and technicians. Doing specific projects like card access, security cameras or integrating campus-wide access points were limited to specific project managers and technicians that specifically had experience in that domain.
@@ -55,10 +55,11 @@ I have also used python extensively in my labs for data visualization, preferrin
 
 # Collaborative Processes
 
-ongoing research collaboration with Lawrence Livermore National Labs and SJSU as a prime example of your ability to work with a wide range of people with varying degrees of experience
-
 Founder and president of the Frassati youth group: as a leader, I adopt a philosophy of being understanding but holding firm requirements and asking a lot from people, allowing them to put forward their skills and be proud of the group they are with. I emphasize  communication as a key to building these relationships.
 
-Wide range of people: doctors at Sandia, technicians at Tesla, project managers in contruction businesses, business owners, children (oldest of 6 siblings), professors, classmates.
+It's difficult to be a good leader when you don't live out your principles, as such working in teams provides me with the opportunity to be on the receiving end of various leaders' approaches. I am a proactive team player
+
+Wide range of people: doctors at Sandia, researchers at Lawrence Livermore, technicians at Tesla, project managers in contruction businesses, business owners, construction workers, children (oldest of 6 siblings), people of all backgrounds and religions.
 
 I am used to communicating with various cultures as well: I went to high school in France where I lived with my grandparents and had to learn European languages and customs.
+
