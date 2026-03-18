@@ -1,6 +1,6 @@
 ---
 date created: mardi, mars 17 2026, 9:47:42 am
-date modified: mardi, mars 17 2026, 5:10:00 pm
+date modified: mardi, mars 17 2026, 5:11:41 pm
 ---
 # Veritas Engineering
 - Veritas pre-2020 faced issues scaling because conventions and integrations with customers (Tesla, Lucid, Snowflake) were not clear across project managers and technicians. Doing specific projects like card access, security cameras or integrating campus-wide access points were limited to specific project managers and technicians that specifically had experience in that domain.
@@ -22,6 +22,8 @@ date modified: mardi, mars 17 2026, 5:10:00 pm
 - I reprioritized where my focus should be, looking to make time for transparency and open communication with my professors, going to office hours for face to face time filling in knowledge gaps. This allowed me to become engaged in their classes and created opportunities in research in their laboratories. I also became heavily engaged in IEEE, looking to build a rapport with other EE graduates as fellow students and future coworkers.
 
 # Apple's Mission
+
+I'm looking for the stability present in Apple's workforce and to be able to work at the forefront of innovation.
 
 I strive to always improve the communities I am part of, or the teams I lead. All through college, I've been heavily involved in construction and the trades, helping out local businesses with IT, web dev and marketing. This helped create a network and people regularly reach out based on work I've done for past companies.
 
